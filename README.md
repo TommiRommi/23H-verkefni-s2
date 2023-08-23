@@ -35,7 +35,7 @@
    * Nemendur ákveða litaþema og leturval vefs (_Style-tyle_)
 2. verkefni. Nemendur setja upp vef með eigin vinnuramma (_framework_) sem er með sveigjanlegu dálkaskipulagi.
 3. verkefni. Form, töflur og fleiri íhlutir settir í vefinn
-4. verkefni. Efnisyfirlit er sett í fellilista og spretti gluggi búinn til ofl. í 4. verkefni
-5. verkefni. Unnið er með SVG teikningar og leturtáknsafn búið til í 5. verkefni 
+4. verkefni. Efnisyfirlit er sett í fellilista og spretti gluggi búinn til ofl. 
+5. verkefni. Unnið er með SVG teikningar og leturtáknsafn búið til 
 6. verkefni er kvikun (_Animation_) bætt við til að lífga upp á vefinn
-7. verkefni. Forsíðan er "poppuð upp" með frjálsri aðferð (_landing page_) í 7.verkefni
+7. verkefni. Forsíðan er "poppuð upp" með frjálsri aðferð (_landing page_) 
