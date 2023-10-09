@@ -135,8 +135,8 @@ input[type="url"],
 input[type="password"],
 textarea,
 select {
-  height: 38px;
-  padding: 6px 10px; /* The 6px vertically centers text on FF, ignored by Webkit */
+  height: 3.5em;
+  padding: .4em .6em; /* The .4em vertically centers text on FF, ignored by Webkit */
   background-color: #fff;
   border: 1px solid #D1D1D1;
   border-radius: 4px;
@@ -158,9 +158,9 @@ textarea {
 
 
 textarea {
-  min-height: 65px;
-  padding-top: 6px;
-  padding-bottom: 6px; }
+  min-height: 4em;
+  padding-top: .4em;
+  padding-bottom: .4em; }
 input[type="email"]:focus,
 input[type="number"]:focus,
 input[type="search"]:focus,
@@ -176,7 +176,7 @@ select:focus {
 label,
 legend {
   display: block;
-  margin-bottom: .5em;
+  margin-bottom: .4em;
   font-weight: 600; }
 
 fieldset {
@@ -189,7 +189,7 @@ input[type="radio"] {
 
 label > .label-body {
   display: inline-block;
-  margin-left: .5em;
+  margin-left: .4em;
   font-weight: normal; }
 
 
@@ -215,7 +215,7 @@ li {
 /* Code
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 code {
-  padding: .2em .5em;
+  padding: .2em .4em;
   margin: 0 .2em;
   font-size: 90%;
   white-space: nowrap;
@@ -224,7 +224,7 @@ code {
   border-radius: 4px; }
 pre > code {
   display: block;
-  padding: 1em 1em;
+  padding: 1em;
   white-space: pre; }
 
 
@@ -235,7 +235,7 @@ table {
 }
 th,
 td {
-  padding: 12px 15px;
+  padding: .6em 1em;
   text-align: left;
   border-bottom: 1px solid #c4c3c3; }
 th:first-child,
