@@ -17,7 +17,7 @@
 |---|---|---|---|---|
 | 42  | Undirbúningur og skipulag vefs  | 1  | 8 | 12 |
 | 43  | HTML & CSS vinnurammi (_framework_)  | 2 | 8  | 12 |
-| 44  | Vinnurammi, Töflur, form ofl. íhlutir | 3  | 8 | 12 |
+| 44  | Vinnurammi, Töflur, form ofl. íhlutir | 3  | 6 | 12 |
 | 45  | Fellilistar og sprettigluggar <sub> _Lykilmatsþáttur_ </sub> | 4  | 8  | 20 |
 | 46  | SVG vigurteikningar (_Vector graphics_)| 5  | 8 | 12 |
 | 47  | CSS kvikun (Animation) | 6  | 8 | 12  |
