@@ -8,9 +8,9 @@ Nemendur eiga að geta undirbúið og skipulagt kynningarvef fyrir viðburð eð
 
 Í 1. verkefni á að ákveða hvaða efni/þema á að nota sem undirstaða _allra verkefna áfangans_. Engin á að fjalla um sama fyrirtæki og nota nákvæmlega sömu lausnir.
 
-### Þema Tölvuleikjamót
+### Þema 
 
-Fyrirtækið má vera starfandi á markaði en það getur líka verið skáldað. Tölvuleikjamótið á að vera sannfærandi þannig að maður getur hugsað sér að taka þátt í því.
+Nemendur eiga að fjalla um **tölvuleikjamót**. Efnisval er frjálst og fyrirtækið sem heldur má vera starfandi á markaði en það getur líka verið skáldað. Tölvuleikjamótið á að halda á ákveðnum tíma og vera sannfærandi þannig að maður getur hugsað sér að taka þátt í því.
 
 #### Það sem á að vera á vef um tölvuleikjamót:
 
