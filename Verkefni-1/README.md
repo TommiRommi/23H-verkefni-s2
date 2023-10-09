@@ -2,25 +2,23 @@
 
 ### Markmið:
 
-Nemendur eiga að geta undirbúið og skipulagt gerð kynningarvefs
+Nemendur eiga að geta undirbúið og skipulagt kynningarvef fyrir viðburð eða söluátak fyrirtækis 
 
 ### Undirbúningsvinna og skipulagning vefs
 
-Verkefni áfangans eiga að tengjast saman og afrakstur þeirra á að vera frambærilegur vefur. 
-
 Í 1. verkefni er ákveðið hvaða efni/þema á að nota sem undirstaða undir verkefnin til að hægt sé að meta verkefnin. Engin á að fjalla um sama fyrirtæki og nota nákvæmlega sömu lausnir.
 
-### Þema Ferðaþjónusta
+### Þema Tölvuleikjamót
 
 Fyrirtækið má vera starfandi á markaði en það getur líka verið skáldað. Ferðir í boði verða að vera raunhæfar a.mk. sannfærandi þannig að maður getur hugsað sér að fara í slíka ferð.
 
-#### Það sem á að vera á vefnum:
+#### Það sem á að vera á vef um tölvuleikjamót:
 
-* Upplýsingar um ferðir fyrirtækisins
-* Listi yfir ferðirnar (tafla)
-* Skráning í ferðirnar. (pöntunarform _aðeins útlit forms - engin virkni_)
+* Upplýsingar um hvernig mótið fer fram
+* Skráning á mótið. (pöntunarform _aðeins útlit forms - engin virkni_)
 * Samskiptaform - spjallrás (pop up rammi _aðeins útlit forms - engin virkni_)
-* Upplýsingar um fyrirtækið
+* Stigatafla, hverjir eru bestir (tafla)
+* Upplýsingar um tölvuleikinn og fyrirtækið
 * Efnisyfirlit (_drop down menu_)
 
 #### Verkáætlun
@@ -49,3 +47,5 @@ Fyrirtækið má vera starfandi á markaði en það getur líka verið skálda�
 - Tengill á verkefnageymsluna er skilað í Innu
 
 #### Einkunn verður birt í Innu
+
+> Verkefni áfangans eiga að tengjast saman og afrakstur þeirra á að verða frambærilegur vefur sem hægt er að birta á internetinu. 
