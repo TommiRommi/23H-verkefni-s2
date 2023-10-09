@@ -15,15 +15,16 @@
 
 | Vika  | Verkefni  | Nr. | Tímar | Vægi % |
 |---|---|---|---|---|
-| 42  | Undirbúningur og skipulag vefs  | 1  | 8 | 12 |
-| 43  | HTML & CSS vinnurammi (_framework_)  | 2 | 8  | 12 |
-| 44  | Vinnurammi, Töflur, form ofl. íhlutir | 3  | 6 | 12 |
-| 45  | Fellilistar og sprettigluggar <sub> _Lykilmatsþáttur_ </sub> | 4  | 8  | 20 |
-| 46  | SVG vigurteikningar (_Vector graphics_)| 5  | 8 | 12 |
-| 47  | CSS kvikun (Animation) | 6  | 8 | 12  |
-| 48  | Forsíða (landing page)  &nbsp; &nbsp; <sub> **_Lykilmatsþáttur_** </sub> | 7 | 8 | 20 |
-| 49  | <sub>**Síðasti  kennsludagur 13.desember**.  |  |  | 100%  |
-| 50  | <sub>Námsmat 14. - 16. desember. Birting lokaeinunnar 18. desember</sub> |  |  |  |
+| 42  | Undirbúningur og skipulag vefs  | 1  | 2 |  |
+| 43  | Undirbúningur og skipulag vefs  | 1  | 8 | 12 |
+| 44  | HTML & CSS vinnurammi (_framework_)  | 2 | 8  | 12 |
+| 45  | Vinnurammi, Töflur, form ofl. íhlutir | 3  | 6 | 12 |
+| 46  | Fellilistar og sprettigluggar <sub> _Lykilmatsþáttur_ </sub> | 4  | 8  | 20 |
+| 47  | SVG vigurteikningar (_Vector graphics_)| 5  | 8 | 12 |
+| 48  | CSS kvikun (Animation) | 6  | 8 | 12  |
+| 49  | Forsíða (landing page)  &nbsp; &nbsp; <sub> **_Lykilmatsþáttur_** </sub> | 7 | 8 | 20 |
+| 50  | <sub>**Síðasti  kennsludagur 13.desember**.  |  |  | 100%  |
+| 50 - 51  | <sub>Námsmat 14. - 16. desember. Birting lokaeinunnar 18. desember</sub> |  |  |  |
 
 
 ---
