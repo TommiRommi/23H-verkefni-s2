@@ -10,7 +10,7 @@ Nemendur eiga að geta skipulagt og búið til kynningarvef fyrir viðburð eða
 
 ### Þema 
 
-Nemendur eiga að fjalla um **tölvuleikjamót**. Efnisval er frjálst og fyrirtækið sem heldur mótið getur verið starfandi á markaði en má líka vera skáldað. Tölvuleikjamótið á að halda á ákveðnum tíma og vera sannfærandi þannig að maður getur hugsað sér að taka þátt í því.
+Nemendur eiga að fjalla um **tölvuleikjamót**. Efnisval er frjálst og mótið er ykkar hugarsmíð. Tölvuleikjamótið þarf að vera sannfærandi þannig að maður getur hugsað sér að taka þátt í því.
 
 #### Það sem á að vera á vef um tölvuleikjamót:
 
