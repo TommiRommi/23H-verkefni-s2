@@ -19,8 +19,12 @@ Nemendur eiga að fjalla um **tölvuleikjamót**. Efnisval er frjálst og fyrirt
 * Skráning á mótið. (pöntunarform _aðeins útlit forms - engin virkni_)
 * Samskiptaform - spjallrás (pop up rammi _aðeins útlit forms - engin virkni_)
 * Stigatafla, hverjir eru bestir 
-* Upplýsingar um tölvuleikinn 
+* Upplýsingar um tölvuleikinn
+    * hverjir eru bestir
+    * hvernig er leikurinn spilaðu ofl.
 * Upplýsingar um fyrirtækið
+    * hverjir hanna leikinn
+    * þróun leiksins ofl. 
 
 #### Verkáætlun
 
