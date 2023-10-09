@@ -24,7 +24,7 @@
 | 48  | CSS kvikun (Animation) | 6  | 8 | 12  |
 | 49  | Forsíða (landing page)  &nbsp; &nbsp; <sub> **_Lykilmatsþáttur_** </sub> | 7 | 8 | 20 |
 | 50  | <sub>**Síðasti  kennsludagur 13.desember**.  |  |  | 100%  |
-| 50 - 51  | <sub>Námsmat 14. - 16. desember. Birting lokaeinunnar 18. desember</sub> |  |  |  |
+| 50 - 51  | <sub>Námsmat 14. 15. og 18. desember</sub> |  |  |  |
 
 
 ---
