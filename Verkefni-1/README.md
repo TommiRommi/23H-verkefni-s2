@@ -14,11 +14,13 @@ Nemendur eiga að fjalla um **tölvuleikjamót**. Efnisval er frjálst og fyrirt
 
 #### Það sem á að vera á vef um tölvuleikjamót:
 
-* Upplýsingar um hvernig mótið fer fram
+* Hvar og hvenær er mótið haldið
+* Hvernig mótið fer fram
 * Skráning á mótið. (pöntunarform _aðeins útlit forms - engin virkni_)
 * Samskiptaform - spjallrás (pop up rammi _aðeins útlit forms - engin virkni_)
 * Stigatafla, hverjir eru bestir 
-* Upplýsingar um tölvuleikinn og fyrirtækið
+* Upplýsingar um tölvuleikinn 
+* Upplýsingar um fyrirtækið
 
 #### Verkáætlun
 
