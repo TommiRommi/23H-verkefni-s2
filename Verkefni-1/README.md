@@ -6,7 +6,7 @@ Nemendur eiga að geta undirbúið og skipulagt kynningarvef fyrir viðburð eð
 
 #### Undirbúningsvinna og skipulagning vefs
 
-Í 1. verkefni á að ákveða hvaða efni/þema á að nota sem undirstaða undir _öll verkefni áfangans_. Engin á að fjalla um sama fyrirtæki og nota nákvæmlega sömu lausnir.
+Í 1. verkefni á að ákveða hvaða efni/þema á að nota sem undirstaða _allra verkefna áfangans_. Engin á að fjalla um sama fyrirtæki og nota nákvæmlega sömu lausnir.
 
 ### Þema Tölvuleikjamót
 
@@ -19,7 +19,6 @@ Fyrirtækið má vera starfandi á markaði en það getur líka verið skálda�
 * Samskiptaform - spjallrás (pop up rammi _aðeins útlit forms - engin virkni_)
 * Stigatafla, hverjir eru bestir 
 * Upplýsingar um tölvuleikinn og fyrirtækið
-* Efnisyfirlit (_drop down menu_)
 
 #### Verkáætlun
 
