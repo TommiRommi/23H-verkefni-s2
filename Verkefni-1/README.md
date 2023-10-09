@@ -2,54 +2,61 @@
 
 ### Markmið:
 
-Nemendur eiga að geta skipulagt og búið til kynningarvef fyrir viðburð eða söluátak fyrirtækis 
+Nemendur eiga að geta undirbúið og skipulagt gerð kynningarvefs
 
-#### Undirbúningsvinna og skipulagning vefs
+---
 
-Í 1. verkefni á að ákveða hvaða efni/þema á að nota sem undirstaða _allra verkefna áfangans_. Engin á að fjalla um sama fyrirtæki og nota nákvæmlega sömu lausnir.
+Í 1. verkefni er ákveðið hvaða efni/þema á að nota sem undirstaða undir verkefnin sem unnin eru í áfanganum. Engin á að fjalla um sama fyrirtæki og nota nákvæmlega sömu lausnir. Verkefni áfangans tengjast saman og afrakstur þeirra á að vera frambærilegur vefur sem hægt er að birta á internetinu. 
 
-### Þema 
+### Þema, _vörukynning_ 
 
-Nemendur eiga að fjalla um **tölvuleikjamót**. Efnisval er frjálst og mótið er ykkar hugarsmíð. Tölvuleikjamótið þarf að vera sannfærandi þannig að maður getur hugsað sér að taka þátt í því.
+* Vara og/eða þjónusta sem kynnt er á ákveðnum degi 
+  * Það á að vera möguleiki á að panta vöru eða þjónustu
+  * Það er happadrætti, spurningaleikur eða einhver leikur sem viðskiptavinir geta tekið þátt í
+  * Það þarf að skrá sig til að taka þátt í leik
+* Annað val _Þarf samþykki kennara_<sup>*</sup> 
 
-#### Það sem á að vera á vef um tölvuleikjamót:
+Kynningarvefurinn getur fjallað um vöru sem er á markaði eða þjónustu sem fyrirtækið þitt býður upp á. Fyrirtækið má vera starfandi á markaði en það getur líka verið skáldað. 
 
-* Hvar og hvenær er mótið haldið
-* Hvernig mótið fer fram
-* Skráning á mótið. (pöntunarform _aðeins útlit forms - engin virkni_)
+### Efnisöflun og hugmyndavinna
+
+* Skrifið niður allar hugmyndir sem koma til greina
+* Veljið síðan eina hugmynd til að halda áfram með 
+* Finnið heimildir (texta og myndir) sem hægt er að nota
+* Vistið gögnin í vinnumöppu í verkefnageymslu ykkar
+
+### Innihald vefsins
+
+* Upplýsingar um vöruna og/eða þjónustu
+* Söluhvati, leikur eða happadrætti
+* Vörulisti (tafla) 
+* Skráning á sýninguna. (pöntunarform _aðeins útlit forms - engin virkni_)
 * Samskiptaform - spjallrás (pop up rammi _aðeins útlit forms - engin virkni_)
-* Upplýsingar um tölvuleikinn
-    * Stigatafla, hverjir eru bestir 
-    * hvernig er leikurinn spilaður ofl.
-* Upplýsingar um fyrirtækið
-    * hverjir hanna leikinn
-    * þróun leiksins ofl. 
+* Upplýsingar um fyrirtækið sem stendur að sýningunni
 
-#### Verkáætlun
+### Tæknileg útfærlsa
 
-1. Efnisöflun og hugmyndavinna
-   * Skrifið niður allar hugmyndir sem koma til greina
-2. Skipurit - _"SiteMap"_
-   * [Búið til skipurit](Námsefni-1/Sitemap.md)
-3. Tengirit - _"WireFrame"_
+1. Skipurit - _"SiteMap"_
+   * [Búið til skipurit](Námsefni-1/)
+1. Tengirit - _"WireFrame"_
    * [Búið til leiðakerfi](Námsefni-1/wireframe/README.md)
-4. Stílbragð - _Style tyle_
-   * [Útlitshönnun](Námsefni-1/prototype/README.md)
+1. Stílbragð - _Style tyle_
+   * [Ákveðið letur- og litasamsetningu](Námsefni-1/style-tyle/README.md)
 
-#### Námsmat 12% af heildareinkunn
+### Námsmat 12% af heildareinkunn
 
-* Hugmyndavinna 2%
+* Hugmyndavinna 3%
 * Efnisöflun og Textavinna 3%
 * Efnisyfirlit - _Site Map_ 2%
-* Skipurit - _Wireframe_     3%
+* Tengirit - _Wireframe_     2%
 * Stílbragð - _Style tyle_  2%
 
-#### Verkefnaskil
+### Verkefnaskil
 
 - Öllum undirbúningsgögnum er skilað í eigin **"Privat"** verkefnageymslu á github. 
 - Kennari þarf að fá aðgang að verkefnageymslunni (_Settings -> Collaborators -> Invite members_)
 - Tengill á verkefnageymsluna er skilað í Innu
 
-#### Einkunn verður birt í Innu
+#### _Einkunn verður birt í Innu_
 
-> Verkefni áfangans eiga að tengjast saman og afrakstur þeirra á að verða frambærilegur vefur sem hægt er að birta á internetinu. 
+>* _Umfjöllunarefni má ekki vera ólöglegt samkvæmt íslenskum lögum._
