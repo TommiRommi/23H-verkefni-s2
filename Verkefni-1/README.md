@@ -2,7 +2,7 @@
 
 ### Markmið:
 
-Nemendur eiga að geta undirbúið og skipulagt kynningarvef fyrir viðburð eða söluátak fyrirtækis 
+Nemendur eiga að geta skipulagt og búið til kynningarvef fyrir viðburð eða söluátak fyrirtækis 
 
 #### Undirbúningsvinna og skipulagning vefs
 
