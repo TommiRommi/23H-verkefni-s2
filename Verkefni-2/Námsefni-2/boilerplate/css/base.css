@@ -255,16 +255,23 @@ img {
 figure {
   margin: 0;
 }
+/* Grid
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+col-2, col-3, col-4, col-5, col-6 {
+  display:grid;
+  grid-template-columns: 1fr;
+}
+
 /* Media Queries
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
-/* Larger than mobile 
+/* Mobile 480px
 @media screen and (min-width: 30em) {}
 */
 /* Larger than phablet (also point when grid becomes active) 
 @media screen and (min-width: 37.5em) {}
 */
-/* Larger than tablet */
+/* Tablets */
 @media screen and (min-width: 48em) {
   h1 { 
     font-size: 3.0em; 
@@ -282,9 +289,9 @@ figure {
   }
 }
 
-/* Larger than desktop 
+/* Desktop 
 @media screen and (min-width: 60em) {}
 */
-/* Larger than Desktop HD 
+/* Desktop HD 
 @media screen and (min-width: 100em) {}
 */
